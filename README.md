@@ -1,1 +1,1 @@
-# HexaCAPTCHA_Parity_Classifier
+# HexaCAPTCHA_Parity_Checker
